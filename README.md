@@ -53,6 +53,6 @@ The app implements various modern web development concepts and technologies, inc
 - **Role-Based Access Control:** Different user roles (user and admin) are defined with distinct permissions.
 
 #
-Thank you for visiting this repository, and I hope you find this project helpful in your learning journey! Feel free to explore the project. If you have any questions or suggestions, contact me at fatimaiqbalmirza002@gmail.com
+Thank you for visiting this repository, and I hope you find this project helpful in your learning journey! Feel free to explore the project. If you have any questions or suggestions, contact me at chaitrajk2003@gmail.com and bhumika04js@gmail.com
 
 Happy coding!✨
